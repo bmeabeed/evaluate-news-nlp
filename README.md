@@ -10,9 +10,9 @@ Th  project found in  [GitHup](https://github.com/bmeabeed/evaluate-news-nlp)
 - Fork the the repo
 - Clone the project to your local machin 'Chose repository foler in your local machine to clone the project'
 
-`git https://github.com/{Your GitHup account}/fend.git`
+`git https://github.com/{Your GitHup account}/evaluate-news-nlp.git`
 
-- checkout the barnch **refresh-2019**
+- checkout the barnch **master**
 
 `git checkout refresh-2019`
 
