@@ -22,7 +22,7 @@ Th  project found in  [GitHup](https://github.com/bmeabeed/evaluate-news-nlp)
 
 ## Getting started
 
-### Step 1: Signup for an API key
+### Step 1: Signup for (Meaning Cloud) API key
 First, you will need to go [here](https://www.meaningcloud.com/developer/login). Signing up will get you an API key. 
 
 ### Step 2: Environment Variables
