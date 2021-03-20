@@ -1,7 +1,10 @@
 var path = require('path')
 const express = require('express')
+
+const dotenv = require('dotenv');
+dotenv.config();
 //Meaning Cloud Api key 
-const MAPI_KEY='61578c586e3237a75686637a9b14e196'
+const MAPI_KEY=process.env.MAPI_KEY
 
 //genert get url for meaning cloud API
 const API_URL = 'https://api.meaningcloud.com/sentiment-2.1?lang=en&key='+MAPI_KEY

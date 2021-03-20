@@ -26,7 +26,7 @@ Th  project found in  [GitHup](https://github.com/bmeabeed/evaluate-news-nlp)
 First, you will need to go [here](https://www.meaningcloud.com/developer/login). Signing up will get you an API key. 
 
 ### Step 2: Environment Variables
-Open index.js in the server folder and replace the value of **MPI_KEY** by yours key
+Open .env (if not found create it in the root folder)  and replace the value of **MPI_KEY** by yours key
 
 `MAPI_KEY={Your API Key}`
 
