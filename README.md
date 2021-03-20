@@ -14,7 +14,7 @@ Th  project found in  [GitHup](https://github.com/bmeabeed/evaluate-news-nlp)
 
 - checkout the barnch **master**
 
-`git checkout refresh-2019`
+`git checkout master`
 
 - `cd` into your new folder and run:
   `npm install` to install project dependancies tree
