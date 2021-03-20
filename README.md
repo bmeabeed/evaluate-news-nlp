@@ -5,7 +5,7 @@ This project allows users to run Natural Language Processing (NLP) on articles o
 
 ## Install
 
-Th  project found in  [GitHup](https://github.com/bmeabeed/fend/tree/refresh-2019)
+Th  project found in  [GitHup](https://github.com/bmeabeed/evaluate-news-nlp)
 
 - Fork the the repo
 - Clone the project to your local machin 'Chose repository foler in your local machine to clone the project'
